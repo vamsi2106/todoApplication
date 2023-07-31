@@ -1,3 +1,4 @@
+
 1. **Task Management**
 
    The task management part of the code handles adding new tasks to the list and storing them in the `todoList` array. When the "Add" button is clicked, the `onAddTodo` function is called. It gets the user input for the task description and reminder time, validates the input, and creates a new todo object with the task details. The todo object is then added to the `todoList` array using the `push` method. The `createAndAppendTodo` function is called to display the newly added task on the web page.
