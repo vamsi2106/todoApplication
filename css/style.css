@@ -3,6 +3,11 @@
 /* ... existing code ... */
 /* ... existing code ... */
 
+body{
+  background-color: black;
+  color: white;
+}
+
 .label-reminder {
   font-family: "Roboto";
   font-size: 14px;
